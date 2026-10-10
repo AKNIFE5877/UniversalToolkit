@@ -1,0 +1,16 @@
+{
+  "name": "com.universaltoolkit.core",
+  "displayName": "Universal Toolkit",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "A foundation package for reusable Unity runtime and editor utilities.",
+  "keywords": [
+    "unity",
+    "toolkit",
+    "utilities"
+  ],
+  "author": {
+    "name": "UniversalToolkit Contributors"
+  },
+  "license": "MIT"
+}
